@@ -1,4 +1,4 @@
-clasclass Solution {
+class Solution {
     static int findInversionCount(int arr[], int n) {
       int invCount = 0; //to store inversion count
       for (int ii = 0; ii < n - 1; ii++) //for each element
